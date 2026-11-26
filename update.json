@@ -1,18 +1,20 @@
 {
-  "versionCode": 328,
-  "versionName": "3.2.8",
-  "url": "",
-  "changelog": "",
+  "versionCode": 329,
+  "versionName": "3.2.9",
+  "url": "https:\/\/github.com\/sanzzstr40\/SanMusic-Updates\/releases\/download\/v3.2.9-329\/SanMusic-3.2.9.apk",
+  "changelog": "Fix overlay Dan lainnya",
   "announcement": {
     "id": "1795670249607",
     "title": "Test",
     "message": "."
   },
   "publishedBy": "SanDev",
-  "publishedAt": "2026-11-26T05:17:29.608Z",
+  "publishedAt": "2026-11-26T06:34:25.643Z",
   "streakBoost": {
     "id": "1795665763469",
     "days": 60,
     "message": "san"
-  }
+  },
+  "sha256": "2be5af6a3e005c5b049776fc8170ea69e153f9c712acef1dd80fc86cce804220",
+  "mandatory": true
 }
