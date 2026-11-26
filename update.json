@@ -9,12 +9,15 @@
     "message": "."
   },
   "publishedBy": "SanDev",
-  "publishedAt": "2026-11-26T06:34:25.643Z",
-  "streakBoost": {
-    "id": "1795665763469",
-    "days": 60,
-    "message": "san"
-  },
+  "publishedAt": "2026-11-26T06:37:00.118Z",
   "sha256": "2be5af6a3e005c5b049776fc8170ea69e153f9c712acef1dd80fc86cce804220",
-  "mandatory": true
+  "mandatory": true,
+  "streakGrants": [
+    {
+      "id": "1795675020117",
+      "username": "SanDev",
+      "days": 60,
+      "message": "nice"
+    }
+  ]
 }
