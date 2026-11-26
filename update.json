@@ -9,7 +9,7 @@
     "message": "."
   },
   "publishedBy": "SanDev",
-  "publishedAt": "2026-11-26T23:10:21.455Z",
+  "publishedAt": "2026-11-26T23:10:42.895Z",
   "sha256": "2be5af6a3e005c5b049776fc8170ea69e153f9c712acef1dd80fc86cce804220",
   "mandatory": true,
   "streakGrants": [
@@ -18,6 +18,12 @@
       "username": "SanDev",
       "days": 60,
       "message": "nice"
+    },
+    {
+      "id": "1795734642894",
+      "username": "sanzz",
+      "days": 60,
+      "message": "nicee"
     }
   ],
   "verifiedUsers": [
